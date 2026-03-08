@@ -58,7 +58,7 @@ this Git repository.
 
 ### Prerequisites
 
-- **Python 3.10.x** (required for TFX compatibility)
+- **Python >3.10.x**
 - Git
 - GCP Account with credits
 
